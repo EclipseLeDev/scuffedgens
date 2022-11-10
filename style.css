@@ -1,8 +1,7 @@
 *{text-align: center}
 body{background-color:#333;color:#ddd}
-.icc-credits span{cursor: pointer;font-family: Arial, sans-serif;font-size: 12px;letter-spacing: 0;line-height: 1;}
-.icc-credits span a{display: inline-block;padding: 0.5em 0.375em;position: relative;text-decoration: none;transition: color 0.25s ease, transform 0.25s ease;z-index: 1;}
-#credits span {color: rgba(235,232,204,0.498);}
+button{background-color: pink; color: black}
+button:hover{background-color: purple; color: black}
 #topBar{background-color:#111;width:100%;height:50px;top:0;left:0;position:absolute}
 #topBa2{background-color:#111;width:100%;height:30px}
 #tb1{left:60px}
